@@ -1,0 +1,7 @@
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\bin\Debug\MantisIcons.dll
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\bin\Debug\MantisIcons.pdb
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\obj\Debug\MantisIcons.PackageImages.resources
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\obj\Debug\MantisIcons.csproj.GenerateResource.Cache
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\obj\Debug\MantisIcons.dll
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\obj\Debug\MantisIcons.pdb
+D:\Stuff\RevitVisualStudio\MantisIcons\MantisIcons\obj\Debug\MantisIcons.csprojResolveAssemblyReference.cache

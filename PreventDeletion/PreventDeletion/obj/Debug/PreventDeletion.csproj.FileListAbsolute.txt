@@ -1,0 +1,5 @@
+D:\Stuff\RevitVisualStudio\PreventDeletion\PreventDeletion\bin\Debug\PreventDeletion.dll
+D:\Stuff\RevitVisualStudio\PreventDeletion\PreventDeletion\bin\Debug\PreventDeletion.pdb
+D:\Stuff\RevitVisualStudio\PreventDeletion\PreventDeletion\obj\Debug\PreventDeletion.csprojResolveAssemblyReference.cache
+D:\Stuff\RevitVisualStudio\PreventDeletion\PreventDeletion\obj\Debug\PreventDeletion.dll
+D:\Stuff\RevitVisualStudio\PreventDeletion\PreventDeletion\obj\Debug\PreventDeletion.pdb

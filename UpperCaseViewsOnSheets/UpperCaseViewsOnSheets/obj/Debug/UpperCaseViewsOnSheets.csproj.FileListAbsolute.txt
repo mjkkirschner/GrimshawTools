@@ -1,0 +1,5 @@
+D:\Stuff\RevitVisualStudio\UpperCaseViewsOnSheets\UpperCaseViewsOnSheets\bin\Debug\UpperCaseViewsOnSheets.dll
+D:\Stuff\RevitVisualStudio\UpperCaseViewsOnSheets\UpperCaseViewsOnSheets\bin\Debug\UpperCaseViewsOnSheets.pdb
+D:\Stuff\RevitVisualStudio\UpperCaseViewsOnSheets\UpperCaseViewsOnSheets\obj\Debug\UpperCaseViewsOnSheets.dll
+D:\Stuff\RevitVisualStudio\UpperCaseViewsOnSheets\UpperCaseViewsOnSheets\obj\Debug\UpperCaseViewsOnSheets.pdb
+D:\Stuff\RevitVisualStudio\UpperCaseViewsOnSheets\UpperCaseViewsOnSheets\obj\Debug\UpperCaseViewsOnSheets.csprojResolveAssemblyReference.cache

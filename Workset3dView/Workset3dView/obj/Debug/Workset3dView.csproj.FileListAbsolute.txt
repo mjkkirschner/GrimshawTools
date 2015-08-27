@@ -1,0 +1,5 @@
+D:\Stuff\RevitVisualStudio\Workset3dView\Workset3dView\bin\Debug\Workset3dView.dll
+D:\Stuff\RevitVisualStudio\Workset3dView\Workset3dView\bin\Debug\Workset3dView.pdb
+D:\Stuff\RevitVisualStudio\Workset3dView\Workset3dView\obj\Debug\Workset3dView.csprojResolveAssemblyReference.cache
+D:\Stuff\RevitVisualStudio\Workset3dView\Workset3dView\obj\Debug\Workset3dView.dll
+D:\Stuff\RevitVisualStudio\Workset3dView\Workset3dView\obj\Debug\Workset3dView.pdb

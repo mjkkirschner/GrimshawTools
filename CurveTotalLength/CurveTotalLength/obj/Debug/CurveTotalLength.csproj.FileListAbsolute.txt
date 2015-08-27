@@ -1,0 +1,5 @@
+D:\Stuff\RevitVisualStudio\CurveTotalLength\CurveTotalLength\bin\Debug\CurveTotalLength.dll
+D:\Stuff\RevitVisualStudio\CurveTotalLength\CurveTotalLength\bin\Debug\CurveTotalLength.pdb
+D:\Stuff\RevitVisualStudio\CurveTotalLength\CurveTotalLength\obj\Debug\CurveTotalLength.dll
+D:\Stuff\RevitVisualStudio\CurveTotalLength\CurveTotalLength\obj\Debug\CurveTotalLength.pdb
+D:\Stuff\RevitVisualStudio\CurveTotalLength\CurveTotalLength\obj\Debug\CurveTotalLength.csprojResolveAssemblyReference.cache

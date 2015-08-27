@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Prevent Deletion</Text>
+    <Description>Prevent deletion of selected elements</Description>
+    <Assembly>PreventDeletion.dll</Assembly>
+    <FullClassName>PreventDeletion.Command</FullClassName>
+    <ClientId>73392d0c-d45c-47a9-a265-444414e8c1aa</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application PreventDeletion</Name>
+    <Assembly>PreventDeletion.dll</Assembly>
+    <FullClassName>PreventDeletion.App</FullClassName>
+    <ClientId>69716c7c-2558-4cb8-90cb-4dac354737b0</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

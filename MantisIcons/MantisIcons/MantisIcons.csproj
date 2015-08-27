@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9FB42B12-43D8-4611-9FCD-1BC029F0679B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MantisIcons</RootNamespace>
+    <AssemblyName>MantisIcons</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PackageImages.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\004aaa06-181f-443e-8088-433b34a2b052.Large.png" />
+    <EmbeddedResource Include="Resources\004aaa06-181f-443e-8088-433b34a2b052.Small.png" />
+    <EmbeddedResource Include="Resources\0174d1ff-1688-4037-a900-738da626c125.Large.png" />
+    <EmbeddedResource Include="Resources\0174d1ff-1688-4037-a900-738da626c125.Small.png" />
+    <EmbeddedResource Include="Resources\13eb7045-a271-40f1-9cd8-7d0c363c96a8.Large.png" />
+    <EmbeddedResource Include="Resources\13eb7045-a271-40f1-9cd8-7d0c363c96a8.Small.png" />
+    <EmbeddedResource Include="Resources\4d67b967-070d-4f0c-b42f-d5b538b8dfbe.Large.png" />
+    <EmbeddedResource Include="Resources\4d67b967-070d-4f0c-b42f-d5b538b8dfbe.Small.png" />
+    <EmbeddedResource Include="Resources\5167e0d9-3dde-4f2c-b0f5-e0bcfe347bc8.Large.png" />
+    <EmbeddedResource Include="Resources\5167e0d9-3dde-4f2c-b0f5-e0bcfe347bc8.Small.png" />
+    <EmbeddedResource Include="Resources\59e01744-8cc9-4403-81b0-6e4040406826.Large.png" />
+    <EmbeddedResource Include="Resources\59e01744-8cc9-4403-81b0-6e4040406826.Small.png" />
+    <EmbeddedResource Include="Resources\5b7ed48d-da9f-43af-8618-f60664366008.Large.png" />
+    <EmbeddedResource Include="Resources\5b7ed48d-da9f-43af-8618-f60664366008.Small.png" />
+    <EmbeddedResource Include="Resources\5c544413-0e47-44a0-9001-539836fedf2a.Large.png" />
+    <EmbeddedResource Include="Resources\5c544413-0e47-44a0-9001-539836fedf2a.Small.png" />
+    <EmbeddedResource Include="Resources\5e474d0c-b1fe-4cd9-93f4-4fc0a60a9363.Large.png" />
+    <EmbeddedResource Include="Resources\5e474d0c-b1fe-4cd9-93f4-4fc0a60a9363.Small.png" />
+    <EmbeddedResource Include="Resources\722b939a-2209-4158-b17b-0a7436921620.Large.png" />
+    <EmbeddedResource Include="Resources\722b939a-2209-4158-b17b-0a7436921620.Small.png" />
+    <EmbeddedResource Include="Resources\72ad8c00-a0ef-4a3b-bf2f-1470f2e51e11.Large.png" />
+    <EmbeddedResource Include="Resources\72ad8c00-a0ef-4a3b-bf2f-1470f2e51e11.Small.png" />
+    <EmbeddedResource Include="Resources\732afdaa-44ef-4b0a-bee9-4e8bcad44c54.Large.png" />
+    <EmbeddedResource Include="Resources\732afdaa-44ef-4b0a-bee9-4e8bcad44c54.Small.png" />
+    <EmbeddedResource Include="Resources\7a74837c-875a-405a-b26a-3af0d26685af.Large.png" />
+    <EmbeddedResource Include="Resources\7a74837c-875a-405a-b26a-3af0d26685af.Small.png" />
+    <EmbeddedResource Include="Resources\95f94c3a-328e-4c09-b1c2-f6d303e84e2e.Large.png" />
+    <EmbeddedResource Include="Resources\95f94c3a-328e-4c09-b1c2-f6d303e84e2e.Small.png" />
+    <EmbeddedResource Include="Resources\9648a159-7814-46f6-9097-16f1f9d27ec8.Large.png" />
+    <EmbeddedResource Include="Resources\9648a159-7814-46f6-9097-16f1f9d27ec8.Small.png" />
+    <EmbeddedResource Include="Resources\a01e452d-2b4d-4f99-942f-019138e41f87.Large.png" />
+    <EmbeddedResource Include="Resources\a01e452d-2b4d-4f99-942f-019138e41f87.Small.png" />
+    <EmbeddedResource Include="Resources\a417b472-e55c-44c4-89d2-18b8dd84bdf8.Large.png" />
+    <EmbeddedResource Include="Resources\a417b472-e55c-44c4-89d2-18b8dd84bdf8.Small.png" />
+    <EmbeddedResource Include="Resources\b15c9807-63fb-4e6a-95f5-bcc6724b1409.Large.png" />
+    <EmbeddedResource Include="Resources\b15c9807-63fb-4e6a-95f5-bcc6724b1409.Small.png" />
+    <EmbeddedResource Include="Resources\b1f9edc3-616b-40b4-a302-9546fe0f68fa.Large.png" />
+    <EmbeddedResource Include="Resources\b1f9edc3-616b-40b4-a302-9546fe0f68fa.Small.png" />
+    <EmbeddedResource Include="Resources\c5f3e9cd-1c5a-4a8f-8584-25d7c59ad3d7.Large.png" />
+    <EmbeddedResource Include="Resources\c5f3e9cd-1c5a-4a8f-8584-25d7c59ad3d7.Small.png" />
+    <EmbeddedResource Include="Resources\cb9934f8-6394-45c9-a0f4-b944426af146.Large.png" />
+    <EmbeddedResource Include="Resources\cb9934f8-6394-45c9-a0f4-b944426af146.Small.png" />
+    <EmbeddedResource Include="Resources\dc665acc-e904-4a67-82e0-1557bbf0a375.Large.png" />
+    <EmbeddedResource Include="Resources\dc665acc-e904-4a67-82e0-1557bbf0a375.Small.png" />
+    <EmbeddedResource Include="Resources\ead4b6dd-e075-4170-8754-ece890e0404a.Large.png" />
+    <EmbeddedResource Include="Resources\ead4b6dd-e075-4170-8754-ece890e0404a.Small.png" />
+    <EmbeddedResource Include="Resources\fed4112f-d408-4b31-b5d2-64e8a68f85f6.Large.png" />
+    <EmbeddedResource Include="Resources\fed4112f-d408-4b31-b5d2-64e8a68f85f6.Small.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="BeforeBuild">
+    <GetReferenceAssemblyPaths TargetFrameworkMoniker=".NETFramework, Version=v2.0">
+      <Output TaskParameter="FullFrameworkReferenceAssemblyPaths" PropertyName="FrameworkAssembliesPath" />
+    </GetReferenceAssemblyPaths>
+    <GenerateResource UseSourcePath="true" Sources="$(ProjectDir)PackageImages.resx" OutputResources="$(ProjectDir)PackageImages.resources" References="$(FrameworkAssembliesPath)System.Drawing.dll" />
+    <AL TargetType="library" EmbedResources="$(ProjectDir)PackageImages.resources" OutputAssembly="$(OutDir)Package.customization.dll" />
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

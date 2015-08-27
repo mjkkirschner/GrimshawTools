@@ -1,0 +1,9 @@
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\bin\Debug\DeleteAllViewsSheets.dll
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\bin\Debug\DeleteAllViewsSheets.pdb
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\DeleteAllViewsSheets.csprojResolveAssemblyReference.cache
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\GrimshawRibbon.ProgressForm.resources
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\DeleteAllViewsSheets.csproj.GenerateResource.Cache
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\DeleteAllViewsSheets.dll
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\DeleteAllViewsSheets.pdb
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\GrimshawRibbon.Properties.Resources.resources
+D:\Stuff\RevitVisualStudio\DeleteAllViewsSheets\DeleteAllViewsSheets\obj\Debug\GrimshawRibbon.ExternalEventExampleDialog.resources

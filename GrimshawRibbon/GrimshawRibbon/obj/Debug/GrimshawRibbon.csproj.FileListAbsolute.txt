@@ -1,0 +1,4 @@
+D:\Stuff\RevitVisualStudio\GrimshawRibbon\GrimshawRibbon\bin\Debug\GrimshawRibbon.dll
+D:\Stuff\RevitVisualStudio\GrimshawRibbon\GrimshawRibbon\bin\Debug\GrimshawRibbon.pdb
+D:\Stuff\RevitVisualStudio\GrimshawRibbon\GrimshawRibbon\obj\Debug\GrimshawRibbon.dll
+D:\Stuff\RevitVisualStudio\GrimshawRibbon\GrimshawRibbon\obj\Debug\GrimshawRibbon.pdb

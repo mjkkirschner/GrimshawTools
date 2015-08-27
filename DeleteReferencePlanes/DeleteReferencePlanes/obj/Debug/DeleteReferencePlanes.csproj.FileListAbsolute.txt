@@ -1,0 +1,5 @@
+D:\Stuff\RevitVisualStudio\DeleteReferencePlanes\DeleteReferencePlanes\obj\Debug\DeleteReferencePlanes.csprojResolveAssemblyReference.cache
+D:\Stuff\RevitVisualStudio\DeleteReferencePlanes\DeleteReferencePlanes\bin\Debug\DeleteReferencePlanes.dll
+D:\Stuff\RevitVisualStudio\DeleteReferencePlanes\DeleteReferencePlanes\bin\Debug\DeleteReferencePlanes.pdb
+D:\Stuff\RevitVisualStudio\DeleteReferencePlanes\DeleteReferencePlanes\obj\Debug\DeleteReferencePlanes.dll
+D:\Stuff\RevitVisualStudio\DeleteReferencePlanes\DeleteReferencePlanes\obj\Debug\DeleteReferencePlanes.pdb
