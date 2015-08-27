@@ -1,0 +1,4 @@
+D:\Stuff\RevitVisualStudio\archilabUI\archilab\bin\Debug\archilab.dll
+D:\Stuff\RevitVisualStudio\archilabUI\archilab\bin\Debug\archilab.pdb
+D:\Stuff\RevitVisualStudio\archilabUI\archilab\obj\Debug\archilab.dll
+D:\Stuff\RevitVisualStudio\archilabUI\archilab\obj\Debug\archilab.pdb

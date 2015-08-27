@@ -1,0 +1,4 @@
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeTypes\bin\Debug\bumblebeeTypes.dll
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeTypes\bin\Debug\bumblebeeTypes.pdb
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeTypes\obj\Debug\bumblebeeTypes.dll
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeTypes\obj\Debug\bumblebeeTypes.pdb

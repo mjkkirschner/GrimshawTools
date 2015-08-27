@@ -1,0 +1,9 @@
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\bin\Debug\bumblebeeUI.dll
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\bin\Debug\bumblebeeUI.pdb
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\bin\Debug\bumblebeeTypes.dll
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\bin\Debug\bumblebeeTypes.pdb
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\obj\Debug\bumblebeeUI.csprojResolveAssemblyReference.cache
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\obj\Debug\bumblebeeUI.bumblebeeUIImages.resources
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\obj\Debug\bumblebeeUI.csproj.GenerateResource.Cache
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\obj\Debug\bumblebeeUI.dll
+D:\Stuff\RevitVisualStudio\bumblebeeUI\bumblebeeUI\obj\Debug\bumblebeeUI.pdb
